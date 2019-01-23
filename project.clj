@@ -1,4 +1,4 @@
-(defproject org.clojars.cognesence/breadth-search "1.0.0"
+(defproject org.clojars.cognesence/breadth-search "0.9.0"
   :description "An implementation of a flexible and partially optimized breadth-first search mechanism in Clojure."
   :url "https://github.com/cognesence/breadth-search"
   :license {:name "Eclipse Public License"
