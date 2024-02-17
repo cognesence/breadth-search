@@ -1,6 +1,5 @@
-# breadth-search
-
-A Clojure library designed to ... well, that part is up to you.
+# Breadth Search
+An implementation of a flexible and partially optimized breadth-first search mechanism in Clojure.
 
 ## Usage
 
